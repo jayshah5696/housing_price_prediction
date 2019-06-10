@@ -1,7 +1,7 @@
 Housing_market_prediction
 ==============================
 
-Sample Project for understanding housing market
+Sample Project for understanding housing market. All the notebooks can be found under notebooks folders. Here, I have followed the normal project structure from cookicutter.
 
 Project Organization
 ------------
